@@ -1,2 +1,2 @@
 # used_car_price_prediction
-Predicted Used Cars pricing on a data of 370000 using Linear Regression. Handled missing and extreme values and achieved a reasonable RMSE of 2481 and R2 Score of 0.62.
+Predicted Used Cars pricing on a data of 370000 using Linear Regression. Handled missing and extreme values. Implemented various regression models like Linear and Polynomial Regression. Also implemented XGBoost to achieve RMSE of 1780, Adjusted-R-Squared value of 0.80.
